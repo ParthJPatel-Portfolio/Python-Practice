@@ -1,4 +1,4 @@
-# Simulated-Movie-Ticket-Booking-Calculator
+# Repository for Python Practice
 
 # Python Practice: Numerical Operators & Conditional Statements
 ## Overview
